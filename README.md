@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eblesyn
-- 👀 I’m interested in React, 
-- 🌱 I’m currently learning react typescript
+- 👋 Hi, I’m Emmanuel Blessing Ojochenemi
+- 👀 I’m interested in  Bootstrap, React, React and Tailwind Css .... 
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me eblesyno@gmail.com 
 - 😄 Pronouns: her
   
