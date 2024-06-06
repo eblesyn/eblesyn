@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Blessing Ojochenemi
-- 👀 I’m interested in  Bootstrap, React, React and Tailwind Css .... 
+- 👀 I’m interested in  Bootstrap, React js, React Typescript and Tailwind Css .... 
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me eblesyno@gmail.com 
 - 😄 Pronouns: her
